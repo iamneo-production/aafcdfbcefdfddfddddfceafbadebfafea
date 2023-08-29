@@ -1,5 +1,4 @@
 package ai.iamneo.testing.Testing_Selenium_TestNg;
-
 import org.testng.annotations.Test;
 import java.util.List;
 import org.openqa.selenium.WebDriver;
